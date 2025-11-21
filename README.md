@@ -1,3 +1,4 @@
+regex  : ^-?[0-9]+$
 ^  : Anchors the match to the start of the string.
 
 -? : The value may or may not have a minus sign.
