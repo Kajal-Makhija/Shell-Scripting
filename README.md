@@ -1,3 +1,9 @@
+This shell script accepts a number N and prints:
+  Whether it is even or odd
+  Whether it is positive,negative or zero
+
+
+
 Regex : ^-?[0-9]+$
 
 ^  : Anchors the match to the start of the string.
